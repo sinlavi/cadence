@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Cadence</string>
+    <string name="widget_artwork_desc">Album artwork</string>
+    <string name="widget_idle_title">Cadence Player</string>
+    <string name="widget_idle_artist">Tap to open library</string>
+    <string name="action_previous">Previous track</string>
+    <string name="action_play_pause">Play or pause</string>
+    <string name="action_next">Next track</string>
+    <string name="action_shuffle">Toggle shuffle</string>
+    <string name="action_repeat">Cycle repeat mode</string>
+    <string name="action_favorite">Toggle favorite</string>
+    <string name="action_queue">Open queue</string>
+    <string name="action_lyrics">Open lyrics</string>
+    <string name="action_equalizer">Open equalizer</string>
+    <string name="action_more">More options</string>
+    <string name="notification_channel_playback">Music Playback</string>
+    <string name="notification_channel_playback_desc">Controls and track information for background audio playback</string>
+    <string name="permission_audio_title">Local Music Access</string>
+    <string name="permission_audio_rationale">Cadence scans audio files stored on your device to build an offline-first music library. Nothing is uploaded.</string>
+    <string name="permission_grant_button">Grant Audio Permission</string>
+    <string name="permission_add_folder_button">Add Folder via Storage Picker</string>
+    <string name="widget_name_compact">Cadence Player Bar (4×1)</string>
+    <string name="widget_name_mini">Cadence Mini Pill (2×1)</string>
+    <string name="widget_name_large">Cadence Full Player (4×2)</string>
+    <string name="widget_name_artwork">Cadence Artwork Card (2×2)</string>
+</resources>

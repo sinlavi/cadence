@@ -1,0 +1,6 @@
+{
+  "name": "Cadence",
+  "description": "Offline-first Material Design 2 Android music player with Media3 playback, smart playlists, TagLib metadata editing, visual LRC lyrics studio, equalizer, and custom Theme Generator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
